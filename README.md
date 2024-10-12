@@ -13,4 +13,5 @@
 
 基于用户的协同过滤：[UserCF](https://github.com/yqqCheergo/RecommenderSystem/tree/main/Recall/UserCF)，[文章讲解](https://zhuanlan.zhihu.com/p/720477610)
 
-Swing：
+Swing：[Swing](https://github.com/yqqCheergo/RecommenderSystem/tree/main/Recall/Swing)，[文章讲解](https://zhuanlan.zhihu.com/p/788444439)
+
