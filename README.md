@@ -14,6 +14,10 @@
 
 Swing：[Swing](https://github.com/yqqCheergo/RecommenderSystem/tree/main/Recall/Swing)，[文章讲解](https://zhuanlan.zhihu.com/p/788444439)
 
+向量召回：
+
+- 矩阵补充模型（及延伸出的LFM模型）：
+
 #### 多任务学习
 
 Shared-Bottom：[SharedBottom](https://github.com/yqqCheergo/RecommenderSystem/blob/main/MTL/SharedBottom.py)
@@ -24,4 +28,4 @@ Customized Gate Control (CGC) / Progressive Layered Extraction (PLE)：[PLE](htt
 
 Entire Space Multi-Task Model：[ESMM](https://github.com/yqqCheergo/RecommenderSystem/tree/main/MTL/ESMM)
 
-以上4个模型对应[文章讲解](https://zhuanlan.zhihu.com/p/17814626067)
+以上4个模型对应[论文泛读](https://zhuanlan.zhihu.com/p/13078439766)，[实现代码](https://zhuanlan.zhihu.com/p/17814626067)
