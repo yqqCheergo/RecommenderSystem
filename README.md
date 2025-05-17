@@ -16,7 +16,7 @@ Swing：[Swing](https://github.com/yqqCheergo/RecommenderSystem/tree/main/Recall
 
 向量召回：
 
-- 矩阵补充模型（及延伸出的LFM模型）：
+- 矩阵补充模型（及延伸出的LFM模型）：[LFM](https://github.com/yqqCheergo/RecommenderSystem/blob/main/Recall/Matrix%20Completion/LFM.py)，[MatrixCompletion](https://github.com/yqqCheergo/RecommenderSystem/blob/main/Recall/Matrix%20Completion/matrix_completion.py)，[文章讲解](https://zhuanlan.zhihu.com/p/720529236)
 
 #### 多任务学习
 
